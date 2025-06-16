@@ -1,7 +1,7 @@
-# Data Science CV
-## Work Experience 1
+# Example 1
+## Aim and dataset
 ![histogram-example-2](assets/histogram-example-2.png)
-## Education
-## Projects
+## Header 1
+## Header 2
 
 

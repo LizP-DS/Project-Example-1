@@ -3,6 +3,6 @@
 ![histogram-example-2](assets/histogram-example-2.png)
 ## Education
 ## Projects
-https://lizp-ds.github.io/TestPortfolio/
-[My Example Project]: [https://stackoverflow.com](https://lizp-ds.github.io/TestPortfolio/)
+### https://lizp-ds.github.io/TestPortfolio/
+### [My Example Project](https://lizp-ds.github.io/TestPortfolio/)
 
